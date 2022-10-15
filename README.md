@@ -22,3 +22,7 @@ By Indiana law, candidates and committees are required to disclose detailed fina
 - **Regular Party Committee**, i.e., a central committee or a national party committee of a political party. A regular party committee includes state committees, congressional district committees, county committees, and city and town committees of a political party (IC 3-5-2-42; 3-5-2-8.)
 
 - **Candidate Exploratory Committee**, i.e., committees whose candidate otherwise fits the definition of a candidate committee but where the candidate has not decided to run for a particular office (IC 3-5-2-7.)
+
+### When are the records available?	 
+
+Campaign finance reports are posted to the database as they are received from the candidates and committees. Our data is as current as possible, consistent with the reporting requirements of Indiana law. Candidates and committees that file paper reports only will have reports available on-line in approximately 7 days following the pre-primary and pre-election report and 14 days after the annual report. Candidates and committees that file reports electronically will have reports available on-line at the same time as the paper reports.
