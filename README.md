@@ -26,3 +26,6 @@ By Indiana law, candidates and committees are required to disclose detailed fina
 ### When are the records available?	 
 
 Campaign finance reports are posted to the database as they are received from the candidates and committees. Our data is as current as possible, consistent with the reporting requirements of Indiana law. Candidates and committees that file paper reports only will have reports available on-line in approximately 7 days following the pre-primary and pre-election report and 14 days after the annual report. Candidates and committees that file reports electronically will have reports available on-line at the same time as the paper reports.
+
+
+### Data contained in repository
