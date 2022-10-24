@@ -33,5 +33,5 @@ Campaign finance reports are posted to the database as they are received from th
 - A combined cleaned csv file for Contributions and Expenditures (to be delivered)
 
 
-###Notes
+### Notes
 - In OpenRefine, you will need to change Xmx in info.plist to 4G in order to run the contribution-data.openrefine.tar.gz file
