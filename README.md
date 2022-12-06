@@ -29,9 +29,7 @@ Campaign finance reports are posted to the database as they are received from th
 
 
 ### Data contained in repository
-- Folder of Contributions and Expenditures for each year in csv format
 - A combined cleaned csv file for Contributions and Expenditures (to be delivered)
-- Folder for Michigan data
 
 
 ### Notes
